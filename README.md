@@ -11,7 +11,7 @@
 Task management web page, where tasks are saved in local storage, where you can complete and delete them.
 <br />
 <br />
-<a href="https://ernestodelarosa.me/taskApp-localstorage/">View Demo</a>
+<a href="https://fufinop.github.io/taskApp-localstorage/">View Demo</a>
 ·
 <a href="https://github.com/Fufinop/taskApp-localstorage/issues">Report Bug</a>
 
